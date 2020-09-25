@@ -12,6 +12,8 @@
 
 🤓 Sharing my side-projects and tinkerings on GitHub
 
+👨🏻‍💼 Decks at [speakerdeck.com/gilday/](https://speakerdeck.com/gilday/)
+
 📝 Blogging at [johnathangilday.com/blog](https://johnathangilday.com/blog)
 
 😎 More about me and my software development career at [johnathangilday.com](https://johnathangilday.com)
